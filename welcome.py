@@ -1,2 +1,3 @@
 print('welcome to Devops')
-print('Learn Devops')
+print('hey how are you')
+print('Enjoy your life to fullest')
